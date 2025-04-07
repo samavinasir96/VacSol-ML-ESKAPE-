@@ -53,7 +53,7 @@ For collaboration or licensing inquiries:
 
 ### 🔗 **Related Links**  
 - [Published Paper (Elsevier)](https://www.sciencedirect.com/science/article/abs/pii/S0264410X24008867)  
-- [Lab Website](https://mgbio.asab.nust.edu.pk) *(if applicable)*  
+- [Lab Website](https://mgbio.asab.nust.edu.pk) 
 
 ---
 
