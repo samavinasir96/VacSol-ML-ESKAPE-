@@ -43,14 +43,6 @@ Contact the author for licensing terms:
   ```
 ---
 
-## ⚠️ **Legal Notice**  
-Unauthorized use may violate copyright laws. By accessing this repository, you agree to:  
-1. Use the code **only as permitted** in the [LICENSE](LICENSE) file.  
-2. **Not redistribute** data, models, or server code.  
-3. Seek permission for **any derivative work** (including benchmarking).  
-
----
-
 ## 📍 **Contact**  
 For collaboration or licensing inquiries:  
 - **PI**: [Prof. Dr. Amjad Ali]  
